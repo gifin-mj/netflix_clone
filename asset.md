@@ -27,6 +27,7 @@ ActionMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HER
 RomanceMovies: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=10749',
 
 Documentaries: 'https://api.themoviedb.org/3/discover/movie?api_key=${API_KEY_HERE}&with_genres=99',
+trailer or related vdos :https://api.themoviedb.org/3/movie/{movie_id}/videos?api_key=<<api_key>>&language=en-US
 
 ////////////////////////////////////////////////////////////////////API KEY////////////////////////////////////////////////////////////////////////////
 

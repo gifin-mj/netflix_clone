@@ -19,4 +19,8 @@
     max-height: 250px;
     max-width: 300px;
     margin-right: 10px;
+    cursor: pointer;
+}
+.poster:hover{
+    transform: scale(1.3);
 }
